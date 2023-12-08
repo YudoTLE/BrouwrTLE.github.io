@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+}
+
+.pad {
+    width: 70px;
+    height: 70px;
+    background-color: red;
+    border-radius: 35px;
+    position: absolute;
+}
